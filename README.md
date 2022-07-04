@@ -1,6 +1,6 @@
 # (LITE - Typescript) Express and Knex Starter
 
-Here is a LITE (minimalistic) starter project so you can get a sense of Knex integration with Typescript and Express. This is not something that should be taken into production but something to serve as a starter so you can add in your own coding flair. We've seen many starters before but found that they were too bloated and too hard to work from. As an alternative we offer our LITE starter repos that have the bare minmum for you to work with or just get a sense of how certain technologies work together.
+Here is a LITE (minimalistic) starter project so you can get a sense of Knex integration with Typescript and Express. This is not something that should be taken into production but something to serve as a starter so you can add in your own coding flair. We've seen many starters before but found that they were too bloated and too hard to work from. As an alternative we offer our LITE starter repos that have the bare minimum for you to work with or just get a sense of how certain technologies work together.
 
 ## Set up
 
